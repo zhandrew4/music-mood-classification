@@ -1,11 +1,11 @@
 # music-mood-classification
 
-data_cleaning is a Jupyter Notebook containing the code to remove null data points and pull audio features from the API.
+data_cleaning.ipnyb is a Jupyter Notebook containing the code to remove null data points and pull audio features from the API.
 
-muse_v3 is the original dataset
+muse_v3.csv is the original dataset
 
-cleaned contains the song titles and spotify IDs w/ null values removed
+cleaned.csv contains the song titles and spotify IDs w/ null values removed
 
-audio_feat contains the pulled audio features for each song
+audio_feat.csv contains the pulled audio features for each song
 
-**full_data contains the full data with song titles, artists, and audio features**
+**full_data.csv contains the full data with song titles, artists, and audio features**
